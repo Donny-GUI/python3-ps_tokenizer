@@ -5,12 +5,13 @@
 Tokenize powershell source scripts with python. Returns a list of PowerShellToken dataclasses, which contain the type, string, start and stop indexes
 
 # Getting Started
+In powershell:
 ```
 git clone https://github.com/Donny-GUI/python3-ps_tokenizer.git
 mv .\ps_tokenizer\ps_tokenizer.py .
 
 ```
-
+In your local python script:
 ```Python3
 from ps_tokenizer import tokenize
 ```
