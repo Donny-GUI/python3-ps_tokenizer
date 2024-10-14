@@ -1,5 +1,12 @@
+
+
+
 # python3-ps_tokenizer
 Tokenize powershell source scripts with python. Returns a list of PowerShellToken dataclasses, which contain the type, string, start and stop indexes
+
+
+![Screenshot 2024-10-14 124724](https://github.com/user-attachments/assets/4c8124da-7c62-4c3c-b15e-d4f91033c38d)
+
 
 # PowerShell Source Tokenizer
 Tokenize powershell source scripts.
